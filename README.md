@@ -1,4 +1,11 @@
 # 120-days-of-python-for-SOC
-I am learning the fundamentals of python. I am starting with basic things like a calculator and building my way up to make legit SOC things, (Log Parsing, TI Enrichment, and more)
+
+**Day 1: Simple Calculator**  
+Command-line arithmetic calculator supporting +, -, *, / operations with float support, result rounding to 3 decimals, and operator validation. First project learning Python basics.
+
+
+**Day 2: IP Address Checker**  
+Reads a list of IP addresses from a file and checks if a user-specified IP exists in that list. Demonstrates file I/O, string comparison, and basic network security validation.
+```
 
 
