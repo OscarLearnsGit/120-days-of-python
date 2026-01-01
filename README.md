@@ -12,5 +12,5 @@ Practice projects focusing on defining functions, utilizing the `return` stateme
 **Day 4: SSH Brute Force Detector**
 Detects SSH brute force attacks by analyzing authentication logs and identifying IPs with 5+ failed login attempts.
 
-**Day 5: Day 7: Timestamp Analyzer**
+**Day 5: Timestamp Analyzer**
 Analyzes timestamps in security logs to detect time-based attack patterns and identify suspicious late-night activity.
