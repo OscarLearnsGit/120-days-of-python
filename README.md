@@ -9,3 +9,8 @@ Reads a list of IP addresses from a file and checks if a user-specified IP exist
 **Day 3: Functions and Scope**
 Practice projects focusing on defining functions, utilizing the `return` statement, and understanding variable scope (local vs. global) in Python. These skills are fundamental for writing modular, bug-free security scripts.
 
+**Day 4: SSH Brute Force Detector**
+Detects SSH brute force attacks by analyzing authentication logs and identifying IPs with 5+ failed login attempts.
+
+**Day 5: Day 7: Timestamp Analyzer**
+Analyzes timestamps in security logs to detect time-based attack patterns and identify suspicious late-night activity.
